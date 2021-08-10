@@ -1,0 +1,4 @@
+@ቀሃስ-Restaurant:
+ ...
+sd                         $  :  34                        
+total price $  :34                                  

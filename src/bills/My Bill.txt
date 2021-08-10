@@ -1,0 +1,4 @@
+Your final bill is out:
+pizza                     :  56.9                      
+burger                    :  45.2                      
+total price :108.1                     
